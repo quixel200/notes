@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "f83ced145abaff26",
+    "type": "split",
+    "children": [
+      {
+        "id": "04e0b1ea37cdc84d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d09f9cbc727142b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sample 3 analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample 3 analysis"
+            }
+          },
+          {
+            "id": "6abc5b1221696a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LNK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LNK"
+            }
+          },
+          {
+            "id": "adeac7e7da8f5f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yara Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yara Rules"
+            }
+          },
+          {
+            "id": "3935ff0ecaa0a7f3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20260405104240.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260405104240"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0be90eee8d11ba17",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fbc0ead423963fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ddd48eded475fea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "59fa6414b79825f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dbb97d459d1098c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7ec11c3fa46a3d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d2db3c42e396a60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dda92f6ec96f16a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "API Recon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for API Recon"
+            }
+          },
+          {
+            "id": "b4cd4a8a5b7ab7fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "API Recon.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from API Recon"
+            }
+          },
+          {
+            "id": "418d9a923abd904c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "40789661802e32ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2fc11c1329c714ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "API Recon.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of API Recon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3ddd48eded475fea",
+  "lastOpenFiles": [
+    "C++.md",
+    "Images/Pasted image 20260404174946.png",
+    "Images/Pasted image 20260404174853.png",
+    "API Recon.md",
+    "Images/Pasted image 20260405104240.png",
+    "Images",
+    "Images/Pasted image 20260516170021.png",
+    "LNK.md",
+    "Yara Rules.md",
+    "Welcome.md",
+    "Reverse Engineering APIs.md",
+    "Sample 1 Analysis.md",
+    "Sample 3 analysis.md",
+    "Sample 4 Analysis.md",
+    "Sample 2 Analysis.md",
+    "Images/Pasted image 20260503132840.png",
+    "Images/Pasted image 20260503132253.png",
+    "Images/Pasted image 20260503132202.png",
+    "Images/Pasted image 20260503131104.png",
+    "Images/Pasted image 20260503130855.png",
+    "Images/Pasted image 20260503130849.png"
+  ]
+}
