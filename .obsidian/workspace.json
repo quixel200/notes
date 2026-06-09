@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "pwncollege/Kernel Exploitation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API Recon.md",
+                "file": "pwncollege/Kernel Exploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from API Recon"
+              "title": "Outgoing links from Kernel Exploitation"
             }
           },
           {
@@ -185,17 +185,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Recon.md",
+                "file": "pwncollege/Kernel Exploitation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of API Recon"
+              "title": "Outline of Kernel Exploitation"
             }
           },
           {
-            "id": "0f63e313994b6401",
+            "id": "d89f68af957228cc",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -225,6 +225,12 @@
   },
   "active": "07e0407dfd21b604",
   "lastOpenFiles": [
+    "pwncollege/Kernel Exploitation.md",
+    "Pasted image 20260608142516.png",
+    "Pasted image 20260608142148.png",
+    "Pasted image 20260608140247.png",
+    "CTFs/leveleffect/Zig.md",
+    "CTFs/leveleffect/RPMs to the max.md",
     "Pasted image 20260528143240.png",
     "Pasted image 20260528105044.png",
     "Pasted image 20260528104737.png",
@@ -237,14 +243,9 @@
     "HackTheBox/OS fundamentals/Linux Fundamentals.md",
     "CTFs/Pasted image 20240707135618.png",
     "ICS2/Access Control concepts.md",
-    "pwncollege/Kernel Exploitation.md",
     "Pasted image 20260527150111.png",
     "Pasted image 20260527145757.png",
     "Pasted image 20260527145601.png",
-    "Pasted image 20260527145127.png",
-    "Pasted image 20260527143716.png",
-    "Pasted image 20260527143457.png",
-    "Pasted image 20260527142901.png",
     "pwncollege/HEAP.md",
     "Windows privilage escalation/Foothold and initial enumeration.md",
     "API Recon.md",
@@ -259,8 +260,6 @@
     "Reverse Engineering APIs.md",
     "pwncollege/file struct.md",
     "Linux Privilege Escalation/Initial enumeration.md",
-    "Linux Privilege Escalation/Escalation Paths.md",
-    "CloudSek CTF write-up.md",
     "Windows privilage escalation",
     "tryhackme",
     "pwncollege",
